@@ -1,4 +1,4 @@
-Prusai3 EINSTEIN Reworked
+Prusa i3 EINSTEIN Reworked
 =========================
 
 La machine ainsi que la notice de montage est régie par une licence GPL comme pour les autres machines RepRap. 
@@ -18,3 +18,9 @@ Améliorations apportées vis à vis de la version d'origine
 * Modification du « X End Idler », du « Y Motor » pour supporter les endstops (capteur de fin de course).
 * Mise à jour du « X End Idler » pour supporter un roulement 624.
 * Ajout d’un « Endstop Z holder » permettant de supporter le endstop Z.
+
+Sources
+-------------------------
+
+* Prusa Mendel i3 EiNSTeiN VARIANT issue de [Reprap.org](http://reprap.org/wiki/Prusa_i3_Build_Manual#EiNSTeiN_VARIANT)
+* Extrudeur derive de celui conçu par ch1t0 sur [Thingiverse](http://www.thingiverse.com/thing:76660)
