@@ -1,11 +1,11 @@
-Prusai3_EINSTEIN_Reworked
+Prusai3 EINSTEIN Reworked
 =========================
 
 La machine ainsi que la notice de montage est régie par une licence GPL comme pour les autres machines RepRap. 
 
 Vous trouverez ici les pieces nécessaires au montage de votre future machine.
 
-Notice de montage accessible sur [sReprap-France.com](http://www.reprap-france.com/content/category/2-support)
+Notice de montage accessible sur [Reprap-France.com](http://www.reprap-france.com/content/category/2-support)
 
 
 Améliorations apportées vis à vis de la version d'origine
